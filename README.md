@@ -1,5 +1,5 @@
 # Sinethemba-Godlo-01 Linear Regression
-Working with *Rust Rover* **(Rust programming language) for the first time and not having a coding background or knowledge.
+Working with *Rust Rover* **(Rust programming language)** for the first time and not having a coding background or knowledge.
 
 I struggled to understand the coding and to get assistance from the programmers (friends and colleagues) as they did not know Rust Language.
 
